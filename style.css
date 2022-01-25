@@ -67,7 +67,7 @@ html {
 /* NAVBAR */
 nav {
   position: relative;
-  background-image: url(asset/img/bg-navbar.svg);
+  background-image: url(asset/img/bg-nav.jpg);
 }
 
 nav a {
@@ -980,7 +980,8 @@ nav a:hover {
     font-size: 1.6rem;
     color: var(--black);
     padding: 0.7rem 8rem;
-    margin-left: 0px;}
+    margin-left: 0px;
+  }
   /* ABOUT */
   .about {
     margin-top: 5rem;
